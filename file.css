@@ -4,3 +4,38 @@ footer {
     background-color: #abbaba;
     color: #000;
   }
+span{
+  float:right;
+  font-size: 16px;
+}
+span[class="id1"]{
+  float:center;
+}
+h1{
+  margin : 0px;
+}
+
+div{
+  border: 0px solid white;
+}
+h4{
+  margin:0px;
+}
+p{
+  margin:0px;
+}
+hr{
+  margin:2px;
+}
+ul{
+  padding:0px;
+  margin:0px;
+  margin-left:20px;
+  margin-bottom: 5px;
+}
+ul[class="a1"]{
+  padding:0px;
+  margin:0px;
+  margin-left:20px;
+  margin-bottom: 0px;
+}
